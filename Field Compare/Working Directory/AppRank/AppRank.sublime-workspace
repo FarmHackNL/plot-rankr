@@ -1,0 +1,583 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"corrupt",
+				"corruptMemFlag"
+			],
+			[
+				"val",
+				"valueReceived"
+			],
+			[
+				"value",
+				"valueToWrite"
+			],
+			[
+				"write",
+				"writeSuccessFlag"
+			],
+			[
+				"chec",
+				"checkMem"
+			],
+			[
+				"poll",
+				"pollCommand"
+			],
+			[
+				"command",
+				"command"
+			],
+			[
+				"degre",
+				"degreesInteger"
+			],
+			[
+				"conver",
+				"convertAllDegreesC"
+			],
+			[
+				"degrees",
+				"degreesFloat"
+			],
+			[
+				"Print",
+				"println"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"sort",
+				"shortenedDegrees"
+			],
+			[
+				"sh",
+				"shortenedDegrees"
+			],
+			[
+				"de",
+				"degreesC"
+			],
+			[
+				"shor",
+				"shortDegreesC"
+			],
+			[
+				"sho",
+				"shortDegreesC"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"if",
+				"if	Arduino if"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"input",
+				"inputletter"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "simple.py",
+			"settings":
+			{
+				"buffer_size": 707,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/ArduPilot.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: If Condition"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"setardu",
+				"Set Syntax: Arduino"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Rowland/Documents/Coding/Arduino/Rowley Projects/EEPROMWrite/EEPROMWrite.sublime-project",
+		"/Users/Rowland/Documents/Coding/Arduino/Rowley Projects/EEPROMWrite/EEPROMWrite.ino",
+		"/Users/Rowland/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Rowland/Documents/Coding/Arduino/Rowley Projects/LCD_Temperature/LCD_Temperature.ino",
+		"/Users/Rowland/Documents/Coding/Arduino/Rowley Projects/EEPROMWrite/EEPROMDebug.ino",
+		"/Users/Rowland/Documents/Coding/Arduino/arduinoSIK.sublime-workspace",
+		"/Users/Rowland/Documents/Coding/Arduino/Rowley Projects/LCD_Temperature/EEPROMWrite.ino",
+		"/Users/Rowland/Documents/Coding/Arduino/SIK/SIK Guide Code/Circuit_04/Circuit_04.ino",
+		"/Users/Rowland/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Rowland/Documents/Coding/Arduino/SIK/SIK Guide Code/Circuit_07/Circuit_07.ino",
+		"/Users/Rowland/Documents/Coding/Arduino/SIK Modified/Circuit_14/Circuit_14_rowleyWrite/Circuit_14_rowleyWrite.ino",
+		"/Users/Rowland/Documents/Coding/Arduino/SIK/SIK Guide Code/Circuit_12/Circuit_12.ino",
+		"/Users/Rowland/Documents/Coding/Arduino/SIK Modified/Circuit_14/Circuit_14_rowleyWrite.ino",
+		"/Users/Rowland/Documents/Coding/Arduino/Datasheets/SN74HC595.pdf",
+		"/Users/Rowland/Documents/Coding/Practice/Coding Unit Tutorials/VariablesTute.c",
+		"/Users/Rowland/Library/Application Support/Sublime Text 2/Packages/User/timestamp.py",
+		"/Users/Rowland/Library/Application Support/Sublime Text 2/Packages/User/DateTime.py",
+		"/Users/Rowland/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Rowland/Documents/Coding/Practice/Random/VariablesTute",
+		"/Users/Rowland/Documents/Coding/Practice/Hello World/hello",
+		"/Users/Rowland/Documents/Coding/Coding Notes",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/ArduPlane/ArduPlane.pde",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/ArduPlane/APM_Config.h",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_HAL_AVR/HAL_AVR_APM2_Class.h",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_HAL_AVR/AP_HAL_AVR_Main.h",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_HAL_AVR/AP_HAL_AVR.h",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/RC_Channel/RC_Channel.cpp",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/RC_Channel/RC_Channel.h",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_Scheduler/AP_Scheduler.cpp",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/ArduPlane/radio.pde",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/ArduPlane/system.pde",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_Scheduler/AP_Scheduler.h",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_Param/AP_Param.h",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_HAL/AP_HAL.h",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_HAL_AVR/Scheduler.cpp",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_HAL/Scheduler.h",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_HAL_AVR/Scheduler_Timer.cpp",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_InertialSensor/AP_InertialSensor.h",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_InertialSensor/AP_InertialSensor.cpp",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_InertialSensor/AP_InertialSensor_MPU6000.cpp",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/APMrover2/Parameters.pde",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_Notify/AP_Notify.h",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_Notify/AP_Notify.cpp",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_Notify/ToshibaLED.h",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_Notify/AP_BoardLED.h",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_Notify/AP_BoardLED.cpp",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_Param/AP_Param.cpp",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/memcheck/memcheck.cpp",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/config.mk",
+		"/Users/Rowland/Library/Application Support/Sublime Text 2/Packages/User/ArduPilot.sublime-build",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/ArduPlane/config.h",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/ArduPlane/APM_Config.h.reference",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/ArduPlane/APM_Config_v0.01_131129.h",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/ArduPlane/Parameters.h",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/APMrover2/compat.h",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/README.md",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/mk/board_avr.mk",
+		"/Users/Rowland/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_GPS/GPS.cpp",
+		"/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/docs/config/arduplane",
+		"/tmp/subl stdin kqWyxe.txt",
+		"/tmp/subl stdin iMcfco.txt",
+		"/tmp/subl stdin KDgDVJ.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Serial",
+			"PrintLn",
+			"\nvoid readData()\n{\n\n}",
+			"serial",
+			"- ",
+			"update_flight_mode",
+			"update_speed_height",
+			"ahrs_update",
+			"check_short_failsafe",
+			"read_radio",
+			"scheduler_tasks",
+			"scheduler",
+			"run(",
+			"scheduler.run",
+			"run",
+			"scheduler",
+			"tick",
+			"mainLoop_count",
+			"G_Dt_max",
+			"fast_loopTimer_us",
+			" _timer ",
+			"_timer",
+			"AVRScheduler::micros",
+			"micros(",
+			"delta_us_fast_loop",
+			"hal",
+			"wait_for_sample",
+			"load_parameters",
+			"init_ardupilot",
+			"  \n",
+			"Searching 1567 files for \"notify\"\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/COPYING.txt:\n  417  provisionally, unless and until the copyright holder explicitly and\n  418  finally terminates your license, and (b) permanently, if the copyright\n  419: holder fails to notify you of the violation by some reasonable means\n  420  prior to 60 days after the cessation.\n  421  \n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/APMrover2/APMrover2.pde:\n  103  #include \"compat.h\"\n  104  \n  105: #include <AP_Notify.h>      // Notify library\n  106  #include <AP_BattMonitor.h> // Battery monitor library\n  107  \n  ...\n  357  } failsafe;\n  358  \n  359: // notify object\n  360: static AP_Notify notify;\n  361  \n  362  ////////////////////////////////////////////////////////////////////////////////\n  ...\n  570      { gcs_failsafe_check,     5,    600 },\n  571      { compass_accumulate,     1,    900 },\n  572:     { update_notify,          1,    300 },\n  573      { one_second_loop,       50,   3000 }\n  574  };\n  ...\n  586  \n  587      // rover does not use arming nor pre-arm checks\n  588:     AP_Notify::flags.armed = true;\n  589:     AP_Notify::flags.pre_arm_check = true;\n  590:     AP_Notify::flags.failsafe_battery = false;\n  591  \n  592:     notify.init();\n  593  \n  594      battery.init();\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/APMrover2/GCS_Mavlink.pde:\n 1975          gcs_update();\n 1976          gcs_data_stream_send();\n 1977:         notify.update();\n 1978      }\n 1979      if (tnow - last_5s > 5000) {\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/APMrover2/system.pde:\n  358  }\n  359  \n  360: // updates the notify state\n  361  // should be called at 50hz\n  362: static void update_notify()\n  363  {\n  364:     notify.update();\n  365  }\n  366  \n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/ArduCopter/AP_State.pde:\n   65          }\n   66  \n   67:         // update AP_Notify\n   68:         AP_Notify::flags.failsafe_radio = b;\n   69      }\n   70  }\n   ..\n   75  {\n   76      failsafe.battery = b;\n   77:     AP_Notify::flags.failsafe_battery = b;\n   78  }\n   79  \n   ..\n   84      failsafe.gps = b;\n   85  \n   86:     // update AP_Notify\n   87:     AP_Notify::flags.failsafe_gps = b;\n   88  }\n   89  \n   ..\n  128      if(ap.pre_arm_check != b) {\n  129          ap.pre_arm_check = b;\n  130:         AP_Notify::flags.pre_arm_check = b;\n  131      }\n  132  }\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/ArduCopter/ArduCopter.pde:\n  117  #include <AP_Scheduler.h>       // main loop scheduler\n  118  #include <AP_RCMapper.h>        // RC input mapping library\n  119: #include <AP_Notify.h>          // Notify library\n  120  #include <AP_BattMonitor.h>     // Battery monitor library\n  121  #if SPRAYER == ENABLED\n  ...\n  161  static AP_Scheduler scheduler;\n  162  \n  163: // AP_Notify instance\n  164: static AP_Notify notify;\n  165  \n  166  \n  ...\n  866      { compass_accumulate,    2,     420 },\n  867      { barometer_accumulate,  2,     250 },\n  868:     { update_notify,         2,     100 },\n  869      { one_hz_loop,         100,     420 },\n  870      { crash_check,          10,      20 },\n  ...\n  908      AP_Param::setup_sketch_defaults();\n  909  \n  910:     // initialise notify system\n  911:     notify.init();\n  912  \n  913      // initialise battery monitor\n  ...\n 1270          gps_fix_count++;\n 1271  \n 1272:         // run glitch protection and update AP_Notify\n 1273          gps_glitch.check_position();\n 1274:         if (AP_Notify::flags.gps_glitching != gps_glitch.glitching()) {\n 1275              if (gps_glitch.glitching()) {\n 1276                  Log_Write_Error(ERROR_SUBSYSTEM_GPS, ERROR_CODE_GPS_GLITCH);\n ....\n 1278                  Log_Write_Error(ERROR_SUBSYSTEM_GPS, ERROR_CODE_ERROR_RESOLVED);\n 1279              }\n 1280:             AP_Notify::flags.gps_glitching = gps_glitch.glitching();\n 1281          }\n 1282  \n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/ArduCopter/control_modes.pde:\n  373  \n  374          // flash the leds\n  375:         AP_Notify::flags.save_trim = true;\n  376  \n  377          // calculate roll trim adjustment\n  ...\n  391          if(auto_trim_counter == 0) {\n  392              ahrs.set_fast_gains(false);\n  393:             AP_Notify::flags.save_trim = false;\n  394          }\n  395      }\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/ArduCopter/GCS_Mavlink.pde:\n 2163          gcs_data_stream_send();\n 2164          gcs_send_deferred();\n 2165:         notify.update();\n 2166      }\n 2167      if (tnow - last_5s > 5000) {\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/ArduCopter/leds.pde:\n    1  /// -*- tab-width: 4; Mode: C++; c-basic-offset: 4; indent-tabs-mode: nil -*-\n    2  \n    3: // updates the status of notify\n    4  // should be called at 50hz\n    5: static void update_notify()\n    6  {\n    7:     notify.update();\n    8  }\n    9  \n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/ArduCopter/radio.pde:\n   72              cliSerial->printf_P(PSTR(\"Entering ESC Calibration: please restart APM.\\n\"));\n   73              // turn on esc calibration notification\n   74:             AP_Notify::flags.esc_calibration = true;\n   75              // block until we restart\n   76              while(1) { delay(5); }\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/ArduCopter/setup.pde:\n 1282          read_radio();\n 1283          delay(100);\n 1284:         AP_Notify::flags.esc_calibration = true;\n 1285          motors.throttle_pass_through();\n 1286      }\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/ArduPlane/ArduPlane.pde:\n   71  #include <AP_TECS.h>\n   72  \n   73: #include <AP_Notify.h>      // Notify library\n   74  #include <AP_BattMonitor.h> // Battery monitor library\n   75  \n   ..\n  134  \n  135  // notification object for LEDs, buzzers etc\n  136: static AP_Notify notify;\n  137  \n  138  ////////////////////////////////////////////////////////////////////////////////\n  ...\n  728      { compass_accumulate,     1,   1500 },\n  729      { barometer_accumulate,   1,    900 },\n  730:     { update_notify,          1,    300 },\n  731      { one_second_loop,       50,   3900 },\n  732      { check_long_failsafe,   15,   1000 },\n  ...\n  750  \n  751      // arduplane does not use arming nor pre-arm checks\n  752:     AP_Notify::flags.armed = true;\n  753:     AP_Notify::flags.pre_arm_check = true;\n  754:     AP_Notify::flags.failsafe_battery = false;\n  755  \n  756:     notify.init();\n  757  \n  758      battery.init();\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/ArduPlane/events.pde:\n  113      aparm.throttle_cruise.load();\n  114      failsafe.low_battery = true;\n  115:     AP_Notify::flags.failsafe_battery = true;\n  116  }\n  117  \n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/ArduPlane/GCS_Mavlink.pde:\n 2214          gcs_update();\n 2215          gcs_data_stream_send();\n 2216:         notify.update();\n 2217      }\n 2218      if (tnow - last_5s > 5000) {\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/ArduPlane/radio.pde:\n  122          if (millis() - failsafe.last_heartbeat_ms > g.short_fs_timeout*1000) {\n  123              failsafe.ch3_failsafe = true;\n  124:             AP_Notify::flags.failsafe_radio = true;\n  125          } else {\n  126              failsafe.ch3_failsafe = false;\n  127:             AP_Notify::flags.failsafe_radio = false;\n  128          }\n  129  \n  ...\n  137                  gcs_send_text_fmt(PSTR(\"MSG FS ON %u\"), (unsigned)pwm);\n  138                  failsafe.ch3_failsafe = true;\n  139:                 AP_Notify::flags.failsafe_radio = true;\n  140              }\n  141              if (failsafe.ch3_counter > 10) {\n  ...\n  154              } else if(failsafe.ch3_counter == 0) {\n  155                  failsafe.ch3_failsafe = false;\n  156:                 AP_Notify::flags.failsafe_radio = false;\n  157              }\n  158          }\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/ArduPlane/system.pde:\n  448  }\n  449  \n  450: // updates the status of the notify objects\n  451  // should be called at 50hz\n  452: static void update_notify()\n  453  {\n  454:     notify.update();\n  455  }\n  456  \n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/ArduPlane/ArduPlane/ArduPlane.ino.cpp:\n   72  #include <AP_TECS.h>\n   73  \n   74: #include <AP_Notify.h>      // Notify library\n   75  #include <AP_BattMonitor.h> // Battery monitor library\n   76  \n   ..\n  135  \n  136  // notification object for LEDs, buzzers etc\n  137: static AP_Notify notify;\n  138  \n  139  ////////////////////////////////////////////////////////////////////////////////\n  ...\n  729      { compass_accumulate,     1,   1500 },\n  730      { barometer_accumulate,   1,    900 },\n  731:     { update_notify,          1,    300 },\n  732      { one_second_loop,       50,   3900 },\n  733      { check_long_failsafe,   15,   1000 },\n  ...\n  996  \n  997      // arduplane does not use arming nor pre-arm checks\n  998:     AP_Notify::flags.armed = true;\n  999:     AP_Notify::flags.pre_arm_check = true;\n 1000:     AP_Notify::flags.failsafe_battery = false;\n 1001  \n 1002:     notify.init();\n 1003  \n 1004      battery.init();\n ....\n 4746          gcs_update();\n 4747          gcs_data_stream_send();\n 4748:         notify.update();\n 4749      }\n 4750      if (tnow - last_5s > 5000) {\n ....\n 7681      aparm.throttle_cruise.load();\n 7682      failsafe.low_battery = true;\n 7683:     AP_Notify::flags.failsafe_battery = true;\n 7684  }\n 7685  \n ....\n 8551          if (millis() - failsafe.last_heartbeat_ms > g.short_fs_timeout*1000) {\n 8552              failsafe.ch3_failsafe = true;\n 8553:             AP_Notify::flags.failsafe_radio = true;\n 8554          } else {\n 8555              failsafe.ch3_failsafe = false;\n 8556:             AP_Notify::flags.failsafe_radio = false;\n 8557          }\n 8558  \n ....\n 8566                  gcs_send_text_fmt(PSTR(\"MSG FS ON %u\"), (unsigned)pwm);\n 8567                  failsafe.ch3_failsafe = true;\n 8568:                 AP_Notify::flags.failsafe_radio = true;\n 8569              }\n 8570              if (failsafe.ch3_counter > 10) {\n ....\n 8583              } else if(failsafe.ch3_counter == 0) {\n 8584                  failsafe.ch3_failsafe = false;\n 8585:                 AP_Notify::flags.failsafe_radio = false;\n 8586              }\n 8587          }\n ....\n 9905  }\n 9906  \n 9907: // updates the status of the notify objects\n 9908  // should be called at 50hz\n 9909: static void update_notify()\n 9910  {\n 9911:     notify.update();\n 9912  }\n 9913  \n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AC_Fence/examples/AC_Fence_test/AC_Fence_test.pde:\n   28  #include <AC_Fence.h>           // Fence library\n   29  #include <GCS_MAVLink.h>\n   30: #include <AP_Notify.h>\n   31  #include <AP_Vehicle.h>\n   32  #include <DataFlash.h>\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_AHRS/examples/AHRS_Test/AHRS_Test.pde:\n   23  #include <SITL.h>\n   24  #include <AP_Buffer.h>\n   25: #include <AP_Notify.h>\n   26  #include <AP_Vehicle.h>\n   27  #include <DataFlash.h>\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_Airspeed/examples/Airspeed/Airspeed.pde:\n   34  #include <AP_Airspeed.h>\n   35  #include <AP_Vehicle.h>\n   36: #include <AP_Notify.h>\n   37  #include <DataFlash.h>\n   38  #include <GCS_MAVLink.h>\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_Baro/examples/AP_Baro_BMP085_test/AP_Baro_BMP085_test.pde:\n   17  #include <AP_Baro.h>\n   18  #include <GCS_MAVLink.h>\n   19: #include <AP_Notify.h>\n   20  \n   21  #include <AP_HAL_AVR.h>\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_GPS/AP_GPS_Glitch.cpp:\n    6  #include <AP_Math.h>\n    7  #include <AP_HAL.h>\n    8: #include <AP_Notify.h>\n    9  #include \"AP_GPS_Glitch.h\"\n   10  \n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_GPS/GPS.cpp:\n    6  #include <AP_Math.h>\n    7  #include <AP_HAL.h>\n    8: #include <AP_Notify.h>\n    9  #include \"GPS.h\"\n   10  \n   ..\n  109      }\n  110  \n  111:     // update notify with gps status\n  112:     AP_Notify::flags.gps_status = _status;\n  113  }\n  114  \n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_GPS/examples/GPS_406_test/GPS_406_test.pde:\n   14  #include <AP_HAL_AVR.h>\n   15  #include <AP_GPS.h>\n   16: #include <AP_Notify.h>\n   17  \n   18  const AP_HAL::HAL& hal = AP_HAL_BOARD_DRIVER;\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_GPS/examples/GPS_AUTO_test/GPS_AUTO_test.pde:\n   16  #include <AP_GPS.h>\n   17  #include <AP_Math.h>\n   18: #include <AP_Notify.h>\n   19  #include <AP_BoardLED.h>\n   20  \n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_GPS/examples/GPS_MTK_test/GPS_MTK_test.pde:\n   17  #include <AP_GPS.h>\n   18  #include <AP_Math.h>\n   19: #include <AP_Notify.h>\n   20  \n   21  const AP_HAL::HAL& hal = AP_HAL_BOARD_DRIVER;\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_GPS/examples/GPS_NMEA_test/GPS_NMEA_test.pde:\n   14  #include <AP_HAL_AVR_SITL.h>\n   15  #include <AP_HAL_Empty.h>\n   16: #include <AP_Notify.h>\n   17  \n   18  const AP_HAL::HAL& hal = AP_HAL_BOARD_DRIVER;\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_GPS/examples/GPS_UBLOX_test/GPS_UBLOX_test.pde:\n   17  #include <AP_GPS.h>\n   18  #include <AP_Math.h>\n   19: #include <AP_Notify.h>\n   20  \n   21  const AP_HAL::HAL& hal = AP_HAL_BOARD_DRIVER;\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_HAL_AVR/examples/ArduCopterLibs/ArduCopterLibs.pde:\n   33  #include <AP_Airspeed.h>        // needed for AHRS build\n   34  #include <AP_Vehicle.h>         // needed for AHRS build\n   35: #include <AP_Notify.h>\n   36  #include <DataFlash.h>\n   37  #include <AP_InertialNav.h>     // ArduPilot Mega inertial navigation library\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_HAL_AVR/examples/ArduPlaneLibs/ArduPlaneLibs.pde:\n   22  #include <AP_Camera.h>          // Photo or video camera\n   23  #include <AP_Airspeed.h>\n   24: #include <AP_Notify.h>\n   25  #include <memcheck.h>\n   26  \n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_HAL_FLYMAPLE/examples/AP_Baro_BMP085_test/AP_Baro_BMP085_test.pde:\n   14  #include <AP_HAL.h>\n   15  #include <AP_Buffer.h>\n   16: #include <AP_Notify.h>\n   17  #include <Filter.h>\n   18  #include <AP_Baro.h>\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_HAL_PX4/examples/simple/simple.pde:\n   23  #include <AP_Declination.h>\n   24  #include <SITL.h>\n   25: #include <AP_Notify.h>\n   26  \n   27  const AP_HAL::HAL& hal = AP_HAL_BOARD_DRIVER;\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_InertialNav/examples/AP_InertialNav_test/AP_InertialNav_test.pde:\n   25  #include <AP_Buffer.h>          // ArduPilot general purpose FIFO buffer\n   26  #include <GCS_MAVLink.h>\n   27: #include <AP_Notify.h>\n   28  \n   29  #include <AP_InertialNav.h>\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_InertialSensor/AP_InertialSensor.cpp:\n    6  #include <AP_Common.h>\n    7  #include <AP_HAL.h>\n    8: #include <AP_Notify.h>\n    9  \n   10  extern const AP_HAL::HAL& hal;\n   ..\n  148  \n  149      // flash leds to tell user to keep the IMU still\n  150:     AP_Notify::flags.initialising = true;\n  151  \n  152      // remove existing gyro offsets\n  ...\n  195              _gyro_offset = last_average;\n  196              // stop flashing leds\n  197:             AP_Notify::flags.initialising = false;\n  198              // all done\n  199              return;\n  ...\n  206  \n  207      // stop flashing leds\n  208:     AP_Notify::flags.initialising = false;\n  209  \n  210      // we've kept the user waiting long enough - use the best pair we\n  ...\n  241  \n  242      // flash leds to tell user to keep the IMU still\n  243:     AP_Notify::flags.initialising = true;\n  244  \n  245      // clear accelerometer offsets and scaling\n  ...\n  295  \n  296      // stop flashing the leds\n  297:     AP_Notify::flags.initialising = false;\n  298  \n  299      hal.console->printf_P(PSTR(\" \"));\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_InertialSensor/examples/Flymaple/Flymaple.pde:\n   17  #include <AP_InertialSensor.h>\n   18  #include <GCS_MAVLink.h>\n   19: #include <AP_Notify.h>\n   20  #include <Filter.h>\n   21  \n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_InertialSensor/examples/L3G4200D/L3G4200D.pde:\n   18  #include <AP_InertialSensor.h>\n   19  #include <GCS_MAVLink.h>\n   20: #include <AP_Notify.h>\n   21  #include <Filter.h>\n   22  \n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_InertialSensor/examples/MPU6000/MPU6000.pde:\n   17  #include <AP_InertialSensor.h>\n   18  #include <GCS_MAVLink.h>\n   19: #include <AP_Notify.h>\n   20  \n   21  const AP_HAL::HAL& hal = AP_HAL_BOARD_DRIVER;\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_InertialSensor/examples/OilPan/OilPan.pde:\n   17  #include <AP_InertialSensor.h>\n   18  #include <GCS_MAVLink.h>\n   19: #include <AP_Notify.h>\n   20  \n   21  const AP_HAL::HAL& hal = AP_HAL_BOARD_DRIVER;\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_InertialSensor/examples/PX4/PX4.pde:\n   18  #include <AP_InertialSensor.h>\n   19  #include <GCS_MAVLink.h>\n   20: #include <AP_Notify.h>\n   21  \n   22  const AP_HAL::HAL& hal = AP_HAL_BOARD_DRIVER;\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_Motors/AP_Motors_Class.cpp:\n  101          _flags.slow_start_low_end = true;\n  102      }\n  103:     AP_Notify::flags.armed = arm;\n  104  };\n  105  \n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_Motors/AP_Motors_Class.h:\n    7  #include <AP_Progmem.h>\n    8  #include <AP_Math.h>        // ArduPilot Mega Vector/Matrix math Library\n    9: #include <AP_Notify.h>      // Notify library\n   10  #include <AP_Curve.h>       // Curve used to linearlise throttle pwm to thrust\n   11  #include <RC_Channel.h>     // RC Channel Library\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_Motors/examples/AP_Motors_test/AP_Motors_test.pde:\n   13  #include <AP_Motors.h>\n   14  #include <AP_Curve.h>\n   15: #include <AP_Notify.h>\n   16  \n   17  #include <AP_HAL_AVR.h>\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_Mount/examples/trivial_AP_Mount/trivial_AP_Mount.pde:\n   22  #include <AP_Vehicle.h>\n   23  #include <DataFlash.h>\n   24: #include <AP_Notify.h>\n   25  \n   26  #include <AP_Mount.h>\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_Notify/AP_BoardLED.cpp:\n   16   */\n   17  \n   18: #include <AP_Notify.h>\n   19  \n   20  extern const AP_HAL::HAL& hal;\n   ..\n   49  \n   50      // initialising\n   51:     if (AP_Notify::flags.initialising) {\n   52          // blink LEDs A and C at 8Hz (full cycle) during initialisation\n   53          if (counter2 & 1) {\n   ..\n   62  \n   63      // save trim and ESC calibration\n   64:     if (AP_Notify::flags.save_trim || AP_Notify::flags.esc_calibration) {\n   65          static uint8_t save_trim_counter = 0;\n   66          if ((counter2 & 0x2) == 0) {\n   ..\n   91      // arming light\n   92      static uint8_t arm_counter = 0;\n   93: 	if (AP_Notify::flags.armed) {\n   94          // red led solid\n   95          hal.gpio->write(HAL_GPIO_A_LED_PIN, HAL_GPIO_LED_ON);\n   ..\n   98              arm_counter++;\n   99          }\n  100:         if (AP_Notify::flags.pre_arm_check) {\n  101              // passed pre-arm checks so slower single flash\n  102              switch(arm_counter) {\n  ...\n  142  \n  143      // gps light\n  144:     switch (AP_Notify::flags.gps_status) {\n  145          case 0:\n  146              // no GPS attached\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_Notify/AP_BoardLED.h:\n   62   # define HAL_GPIO_LED_OFF          HIGH\n   63  #else\n   64: #error \"Unknown board type in AP_Notify\"\n   65  #endif\n   66  \n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_Notify/AP_Notify.cpp:\n   15   */\n   16  \n   17: #include <AP_Notify.h>\n   18  \n   19  // static flags, to allow for direct class update from device drivers\n   20: struct AP_Notify::notify_type AP_Notify::flags;\n   21  \n   22  // initialisation\n   23: void AP_Notify::init(void)\n   24  {\n   25      boardled.init();\n   ..\n   31  \n   32  // main update function, called at 50Hz\n   33: void AP_Notify::update(void)\n   34  {\n   35      boardled.update();\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_Notify/AP_Notify.h:\n   16   */\n   17  \n   18: #ifndef __AP_NOTIFY_H__\n   19: #define __AP_NOTIFY_H__\n   20  \n   21  #include <AP_Common.h>\n   ..\n   26  #include <ToneAlarm_PX4.h>\n   27  \n   28: class AP_Notify\n   29  {\n   30  public:\n   31:     /// notify_type - bitmask of notification types\n   32:     struct notify_type {\n   33          uint16_t initialising       : 1;    // 1 if initialising and copter should not be moved\n   34          uint16_t gps_status         : 2;    // 0 = no gps, 1 = no lock, 2 = 2d lock, 3 = 3d lock\n   ..\n   43      };\n   44  \n   45:     // the notify flags are static to allow direct class access\n   46      // without declaring the object\n   47:     static struct notify_type flags;\n   48  \n   49      // initialisation\n   ..\n   64  };\n   65  \n   66: #endif	// __AP_NOTIFY_H__\n   67  \n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_Notify/ToneAlarm_PX4.cpp:\n   21  #if CONFIG_HAL_BOARD == HAL_BOARD_PX4\n   22  #include \"ToneAlarm_PX4.h\"\n   23: #include \"AP_Notify.h\"\n   24  \n   25  #include <sys/types.h>\n   ..\n   45      // set initial boot states. This prevents us issueing a arming\n   46      // warning in plane and rover on every boot\n   47:     flags.armed = AP_Notify::flags.armed;\n   48:     flags.failsafe_battery = AP_Notify::flags.failsafe_battery;\n   49      return true;\n   50  }\n   ..\n   67  \n   68      // check if arming status has changed\n   69:     if (flags.armed != AP_Notify::flags.armed) {\n   70:         flags.armed = AP_Notify::flags.armed;\n   71          if (flags.armed) {\n   72              // arming tune\n   ..\n   74          }else{\n   75              // disarming tune\n   76:             play_tune(TONE_NOTIFY_NEUTRAL_TUNE);\n   77          }\n   78      }\n   79  \n   80      // check if battery status has changed\n   81:     if (flags.failsafe_battery != AP_Notify::flags.failsafe_battery) {\n   82:         flags.failsafe_battery = AP_Notify::flags.failsafe_battery;\n   83          if (flags.failsafe_battery) {\n   84              // low battery warning tune\n   ..\n   88  \n   89      // check gps glitch\n   90:     if (flags.gps_glitching != AP_Notify::flags.gps_glitching) {\n   91:         flags.gps_glitching = AP_Notify::flags.gps_glitching;\n   92          if (flags.gps_glitching) {\n   93              // gps glitch warning tune\n   ..\n   97  \n   98      // check gps failsafe\n   99:     if (flags.failsafe_gps != AP_Notify::flags.failsafe_gps) {\n  100:         flags.failsafe_gps = AP_Notify::flags.failsafe_gps;\n  101          if (flags.failsafe_gps) {\n  102              // gps glitch warning tune\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_Notify/ToshibaLED.cpp:\n   20  #include <AP_HAL.h>\n   21  #include \"ToshibaLED.h\"\n   22: #include \"AP_Notify.h\"\n   23  \n   24  extern const AP_HAL::HAL& hal;\n   ..\n   49  }\n   50  \n   51: // _scheduled_update - updates _red, _green, _blue according to notify flags\n   52  void ToshibaLED::update_colours(void)\n   53  {\n   ..\n   68  \n   69      // initialising pattern\n   70:     if (AP_Notify::flags.initialising) {\n   71          if (step & 1) {\n   72              // odd steps display red light\n   ..\n   86      \n   87      // save trim and esc calibration pattern\n   88:     if (AP_Notify::flags.save_trim || AP_Notify::flags.esc_calibration) {\n   89          switch(step) {\n   90              case 0:\n   ..\n  128      // failsafe patterns for radio and battery - single flash yellow\n  129      // failsafe pattern for gps - flashing blue and yellow\n  130:     if (AP_Notify::flags.failsafe_radio || AP_Notify::flags.failsafe_battery || AP_Notify::flags.failsafe_gps || AP_Notify::flags.gps_glitching) {\n  131          switch(step) {\n  132              case 0:\n  ...\n  147                  // all off of radio or battery, blue on for gps\n  148                  _red_des = TOSHIBA_LED_OFF;\n  149:                 if (AP_Notify::flags.failsafe_gps || AP_Notify::flags.gps_glitching) {\n  150                      _blue_des = TOSHIBA_LED_DIM;\n  151                  }else{\n  ...\n  160  \n  161      // solid green or flashing green if armed\n  162:     if (AP_Notify::flags.armed) {\n  163          // solid green if armed with GPS 3d lock\n  164:         if (AP_Notify::flags.gps_status == 3) {\n  165              _red_des = TOSHIBA_LED_OFF;\n  166              _blue_des = TOSHIBA_LED_OFF;\n  ...\n  175      }else{\n  176          // double flash yellow if failing pre-arm checks\n  177:         if (!AP_Notify::flags.pre_arm_check) {\n  178              switch(step) {\n  179                  case 0:\n  ...\n  208                  case 4:\n  209                      _red_des = TOSHIBA_LED_OFF;\n  210:                     if (AP_Notify::flags.gps_status == 3) {\n  211                          // flashing green if disarmed with GPS 3d lock\n  212                          _blue_des = TOSHIBA_LED_OFF;\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_Notify/ToshibaLED.h:\n    1  /*\n    2:  *  AP_Notify Library. \n    3   * based upon a prototype library by David \"Buzz\" Bussenschutt.\n    4   */\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_Notify/examples/AP_Notify_test/AP_Notify_test.pde:\n    1  /*\n    2:  *       Example of AC_Notify library .\n    3   *       DIYDrones.com\n    4   */\n    .\n   13  #include <AP_HAL_PX4.h>\n   14  #include <AP_HAL_Empty.h>\n   15: #include <AP_Notify.h>          // Notify library\n   16  #include <AP_BoardLED.h>        // Board LED library\n   17  \n   ..\n   23  void setup()\n   24  {\n   25:     hal.console->println(\"AP_Notify library test\");\n   26  \n   27      // initialise the board leds\n   ..\n   29  \n   30      // turn on initialising notification\n   31:     AP_Notify::flags.initialising = true;\n   32:     AP_Notify::flags.gps_status = 1;\n   33:     AP_Notify::flags.armed = 1;\n   34:     AP_Notify::flags.pre_arm_check = 1;\n   35  }\n   36  \n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/AP_Notify/examples/ToshibaLED_test/ToshibaLED_test.pde:\n   16  #include <AP_HAL_Empty.h>\n   17  #include <AP_HAL_FLYMAPLE.h>\n   18: #include <AP_Notify.h>          // Notify library\n   19  #include <ToshibaLED.h>\n   20  \n   ..\n   44  \n   45      // turn on initialising notification\n   46:     AP_Notify::flags.initialising = false;\n   47:     AP_Notify::flags.save_trim = true;\n   48:     AP_Notify::flags.gps_status = 1;\n   49:     AP_Notify::flags.armed = 1;\n   50:     AP_Notify::flags.pre_arm_check = 1;\n   51  }\n   52  \n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/libraries/DataFlash/examples/DataFlash_test/DataFlash_test.pde:\n   28  #include <DataFlash.h>\n   29  #include <GCS_MAVLink.h>\n   30: #include <AP_Notify.h>\n   31  #include <AP_Vehicle.h>\n   32  \n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/Tools/AntennaTracker/AntennaTracker.pde:\n   53  \n   54  #include <AP_Vehicle.h>\n   55: #include <AP_Notify.h>      // Notify library\n   56  #include <AP_BattMonitor.h> // Battery monitor library\n   57  #include <AP_Airspeed.h>\n   ..\n   95   \n   96  // notification object for LEDs, buzzers etc\n   97: static AP_Notify notify;\n   98  \n   99  // tracking status for MAVLink\n  ...\n  198      { compass_accumulate,     1,   1500 },\n  199      { barometer_accumulate,   1,    900 },\n  200:     { update_notify,          1,    100 },\n  201      { one_second_loop,       50,   3900 }\n  202  };\n  ...\n  220  \n  221      // arduplane does not use arming nor pre-arm checks\n  222:     AP_Notify::flags.armed = true;\n  223:     AP_Notify::flags.pre_arm_check = true;\n  224:     AP_Notify::flags.failsafe_battery = false;\n  225  \n  226:     notify.init();\n  227      init_tracker();\n  228  \n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/Tools/AntennaTracker/GCS_Mavlink.pde:\n  904          gcs_update();\n  905          gcs_data_stream_send();\n  906:         notify.update();\n  907      }\n  908      if (tnow - last_5s > 5000) {\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/Tools/AntennaTracker/system.pde:\n   80  }\n   81  \n   82: // updates the status of the notify objects\n   83  // should be called at 50hz\n   84: static void update_notify()\n   85  {\n   86:     notify.update();\n   87  }\n   88  \n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/Tools/ArduPPM/ATMega32U2/LUFA/Drivers/USB/Class/Device/CDC.h:\n   58   *        the USB standard which is available on most OSes when creating Composite devices.\n   59   *\n   60:  *        Another major oversight is that there is no mechanism for the host to notify the\n   61   *        device that there is a data sink on the host side ready to accept data. This\n   62   *        means that the device may try to send data while the host isn't listening, causing\n   ..\n  124  											   */\n  125  						uint8_t DeviceToHost; /**< Control line states from the device to host, as a set of CDC_CONTROL_LINE_IN_*\n  126: 											   *   masks - to notify the host of changes to these values, call the\n  127  											   *   \\ref CDC_Device_SendControlLineStateChange() function.\n  128  											   */\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/Tools/ArduPPM/ATMega32U2/LUFA/Drivers/USB/Class/Host/CDC.h:\n  109  					{\n  110  						uint8_t HostToDevice; /**< Control line states from the host to device, as a set of CDC_CONTROL_LINE_OUT_*\n  111: 											   *   masks - to notify the device of changes to these values, call the\n  112  											   *   \\ref CDC_Host_SendControlLineStateChange() function.\n  113  											   */\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/Tools/autotest/jsbsim/rascal_test_template.xml:\n   16  \n   17    <run start=\"0\" end=\"10000000\" dt=\"0.001\">\n   18:     <property value=\"0\"> simulation/notify-time-trigger </property>\n   19  \n   20      <event name=\"start engine\">\n   21        <condition> simulation/sim-time-sec le 0.01 </condition>\n   22        <set name=\"propulsion/engine[0]/set-running\" value=\"1\"/>\n   23:       <notify/>\n   24      </event>\n   25  \n   ..\n   27        <condition>simulation/sim-time-sec ge 0.01</condition>\n   28        <set name=\"simulation/do_simple_trim\" value=\"2\"/>\n   29:       <notify/>\n   30      </event>\n   31    </run>\n\n/Users/Rowland/Documents/UAV/ArduPlane/ArduPlane-2.76/Tools/VARTest/VARTest.pde:\n   42  #include <DataFlash.h>\n   43  #include <SITL.h>\n   44: #include <AP_Notify.h>\n   45  \n   46  #include \"config.h\"\n\n196 matches across 60 files\n",
+			"Searching",
+			"notify",
+			"setup_sketch_defaults",
+			"memcheck_init",
+			"BUILDROOT",
+			"AP_Int8",
+			"AP_Int"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"println",
+			"PrintLn",
+			"'- ",
+			"AVRScheduler::micros"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "simple.py",
+					"settings":
+					{
+						"buffer_size": 707,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								707,
+								707
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.1456810605.41":
+	{
+		"height": 100.0
+	},
+	"output.ArduPilotMega_demo":
+	{
+		"height": 191.0
+	},
+	"output.ArduPlane":
+	{
+		"height": 180.0
+	},
+	"output.Circuit_04":
+	{
+		"height": 100.0
+	},
+	"output.EEPROMWrite":
+	{
+		"height": 238.0
+	},
+	"output.LCD_Temperature":
+	{
+		"height": 164.0
+	},
+	"output.build|/Users/Rowland/Documents/Coding/Arduino/Rowley Projects/EEPROMWrite|1456810753.91":
+	{
+		"height": 308.0
+	},
+	"output.build|/Users/Rowland/Documents/Coding/Arduino/Rowley Projects/EEPROMWrite|1456810793.94":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Rowland/Documents/Coding/Arduino/Rowley Projects/EEPROMWrite|1456810827.94":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Rowland/Documents/Coding/Arduino/Rowley Projects/EEPROMWrite|1456810829.74":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Rowland/Documents/Coding/Arduino/Rowley Projects/EEPROMWrite|1456898277.37":
+	{
+		"height": 173.0
+	},
+	"output.exec":
+	{
+		"height": 266.0
+	},
+	"output.stino_log":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Rowland/Documents/Coding/Arduino/Rowley Projects/EEPROMWrite|1456810858.55":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Rowland/Documents/Coding/Arduino/Rowley Projects/EEPROMWrite|1456810906.34":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Rowland/Documents/Coding/Arduino/Rowley Projects/EEPROMWrite|1456810935.93":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Rowland/Documents/Coding/Arduino/Rowley Projects/EEPROMWrite|1456810981.5":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Rowland/Documents/Coding/Arduino/Rowley Projects/EEPROMWrite|1456811177.07":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Rowland/Documents/Coding/Arduino/Rowley Projects/EEPROMWrite|1456898304.67":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Rowland/Documents/Coding/Arduino/Rowley Projects/EEPROMWrite|1456898613.98":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"hal_avr",
+				"libraries/AP_HAL_AVR/HAL_AVR_APM2_Class.h"
+			],
+			[
+				"ap_hal_avr",
+				"libraries/AP_HAL_AVR/AP_HAL_AVR_Main.h"
+			],
+			[
+				"rc_",
+				"libraries/RC_Channel/RC_Channel.cpp"
+			],
+			[
+				"ap_param",
+				"libraries/AP_Param/AP_Param.h"
+			],
+			[
+				"ap_sche",
+				"libraries/AP_Scheduler/AP_Scheduler.h"
+			],
+			[
+				"schedu",
+				"libraries/AP_HAL_AVR/Scheduler.cpp"
+			],
+			[
+				"ap_schedu",
+				"libraries/AP_Scheduler/AP_Scheduler.cpp"
+			],
+			[
+				"ap_sc",
+				"libraries/AP_Scheduler/AP_Scheduler.h"
+			],
+			[
+				"sched",
+				"libraries/AP_HAL_AVR/Scheduler.cpp"
+			],
+			[
+				"_timer",
+				"libraries/AP_HAL_AVR/Scheduler_Timer.cpp"
+			],
+			[
+				"scheduler.cpp",
+				"libraries/AP_HAL_AVR/Scheduler.cpp"
+			],
+			[
+				"inertialsensor",
+				"libraries/AP_InertialSensor/AP_InertialSensor.cpp"
+			],
+			[
+				"ap_iner",
+				"libraries/AP_InertialSensor/AP_InertialSensor.cpp"
+			],
+			[
+				"boardled",
+				"libraries/AP_Notify/AP_BoardLED.cpp"
+			],
+			[
+				"toshiba",
+				"libraries/AP_Notify/ToshibaLED.h"
+			],
+			[
+				"noy",
+				"libraries/AP_Notify/AP_Notify.cpp"
+			],
+			[
+				"notify",
+				"libraries/AP_Notify/AP_Notify.h"
+			],
+			[
+				"apmcon",
+				"ArduPlane/APM_Config.h.reference"
+			],
+			[
+				"ard",
+				"ArduPlane/ArduPlane.pde"
+			],
+			[
+				"para",
+				"ArduPlane/Parameters.h"
+			],
+			[
+				"compa",
+				"APMrover2/compat.h"
+			],
+			[
+				"ardu",
+				"ArduPlane/ArduPlane-2.76/ArduPlane/ArduPlane.pde"
+			],
+			[
+				"ardup",
+				"ArduPlane/ArduPlane-2.76/Tools/autotest/ArduPlane.parm"
+			],
+			[
+				"gps",
+				"ArduPlane/ArduPlane-2.76/libraries/AP_GPS/GPS.cpp"
+			],
+			[
+				"ap",
+				"ArduPlane/ArduPlane-2.76/ArduPlane/ArduPlane.pde"
+			],
+			[
+				"ardun",
+				"ArduPlane/ArduPlane-2.76/docs/config/arduplane"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true
+}
