@@ -1,9 +1,9 @@
 from shapely.geometry import asShape, mapping
 from json import loads, dumps
+from rasterstats import zonal_stats
 import numpy as np
 import rasterio
 import subprocess
-
 
 def shrink():
     with open('data/percelen-sat.geojson') as f:
@@ -17,7 +17,11 @@ def shrink():
         shrink = geom.buffer(-21.0)
 
         if shrink.is_empty != True:
-            output['features'].append({"type": "Feature", "geometry": mapping(shrink)})
+            output['features'].append({
+                "type": "Feature",
+                "geometry": mapping(shrink),
+                "properties": {"perceel": feature['properties']['NAME']}
+            })
 
     with open('data/1-percelen-shrunk.geojson', 'w') as f:
         f.write(dumps(output))
@@ -39,6 +43,8 @@ def calc_ndvi():
             dst.write(ndvi.astype(rasterio.float32), 1)
 
 def calc_stats():
+    # print zonal_stats('data/1-percelen-shrunk.geojson', 'data/images/2-sentinel2-2016-04-01_demo.tif')
+
     subprocess.Popen('cat data/1-percelen-shrunk.geojson | rio zonalstats --stats "mean std" -r data/ndvi.tif > results/stats.geojson', shell=True)
 
 if __name__ == '__main__':
