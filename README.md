@@ -42,13 +42,15 @@ If a count=2 scenario is encountered, then there is the potential that a problem
 
 A time based evaluation of this would also be quite valuable, as it may show an emerging area problem.
 
-For example, if the problem is evenly distributed, it is hard to see in the picture visually, but would be very apparent in the histogram
-representation.
+For example, if the problem is evenly distributed, it is hard to see in the picture visually, but would be very apparent in the histogram representation.
 
-Things that need to be done/considered - Exporting the raster data measurements into a stats program or algorithm that computes a
-minimum threshold count for the histogram to give a good distribution
+Things that need to be done/considered - Exporting the raster data measurements into a stats program or algorithm that computes a minimum threshold count for the histogram to give a good distribution
 
 # Implementation
 
 The methodology is implemented in `rank.py`. The script takes a satellite/drone image, intersects it with the farmer's plots
 and calculates a number of zonal statistics and a histogram.
+
+# TODO
+
+- automatically detect peaks in the histogram
